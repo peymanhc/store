@@ -1,0 +1,11 @@
+export const baseUrl = "/";
+export const NotFound = `${baseUrl}404/`;
+export const Product = `${baseUrl}product/:id`;
+export const Shop = `${baseUrl}shop/`;
+export const Order = `${baseUrl}order_tracking/`;
+export const SpecialDiscount = `${baseUrl}specialDiscount/`;
+export const Auth = `${baseUrl}auth/`;
+export const Wishes = `${baseUrl}wishes/`;
+export const Basket = `${baseUrl}basket/`;
+export const Blog = `${baseUrl}blog/:id`;
+export const Checkout = `${baseUrl}checkout`;
